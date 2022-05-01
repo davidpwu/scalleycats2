@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scalleycats2/static/css/main.a14a03d5.css",
+    "main.js": "/scalleycats2/static/js/main.745e61c7.js",
+    "static/js/787.aba143b1.chunk.js": "/scalleycats2/static/js/787.aba143b1.chunk.js",
+    "index.html": "/scalleycats2/index.html",
+    "main.a14a03d5.css.map": "/scalleycats2/static/css/main.a14a03d5.css.map",
+    "main.745e61c7.js.map": "/scalleycats2/static/js/main.745e61c7.js.map",
+    "787.aba143b1.chunk.js.map": "/scalleycats2/static/js/787.aba143b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14a03d5.css",
+    "static/js/main.745e61c7.js"
+  ]
+}
