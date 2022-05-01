@@ -7,7 +7,7 @@
 
 ## Details
 
-This is a members directory with some names, emails, and unique cat pictures. You can search for members by name. React functional components only. Created with React.js by David Wu.
+This is a members directory with some names, emails, and unique cat pictures. You can search for members by name. React functional components only. Created with React.js by David Wu. Check out https://scullycoop.org/scalleycats/ for a better version.
 
 ## Try
 
